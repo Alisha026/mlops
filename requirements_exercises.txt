@@ -1,5 +1,5 @@
 # list of all packages used throughout the exercises
-
+#
 # s1 - development environment
 python-dotenv
 nbconvert
