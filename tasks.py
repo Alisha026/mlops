@@ -1,6 +1,6 @@
 import os
 import sys
-import matplotlib
+import os
 from invoke import task
 
 CURRENT_DIR = os.getcwd()
